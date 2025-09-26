@@ -69,6 +69,10 @@ UriEncode(str) {
         Run("https://www.youtube.com/")
 }
 
+!m:: {
+    Run("https://music.youtube.com/")
+}
+
 ^+`:: { ; Ctrl+Shift+` → Shortcuts info
     full_path := A_ScriptDir "\shortcuts_gui.py"
     Run("pythonw.exe " Chr(34) full_path Chr(34))
