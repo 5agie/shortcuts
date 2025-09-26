@@ -22,10 +22,11 @@ markdown
 Copy code
 → Opens the menu window with all shortcuts  
 3. Other shortcuts:  
-- `Alt + T` → Translate selected text into Hebrew  
-- `Alt + Y` → Search on YouTube  
-- `Ctrl + Alt + H` → Convert English → Hebrew  
-- `Ctrl + Alt + E` → Convert Hebrew → English  
+- `Alt + T` → Translate selected text into Hebrew
+- `Alt + Y` → Search on YouTube
+- `Alt + M` → Open YouTube Music
+- `Ctrl + Alt + H` → Convert English → Hebrew
+- `Ctrl + Alt + E` → Convert Hebrew → English
 
 ---
 
