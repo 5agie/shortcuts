@@ -16,7 +16,7 @@ Additional keyboard shortcuts powered by AutoHotkey
 ## ⚡ Usage
 1. Run **shortcuts.exe** from the `dist/` folder  
 2. **Most important shortcut**:  
-   - `Ctrl + Shift + `` → Opens the menu window with all shortcuts
+   ``Ctrl + Shift + ``
 
 markdown
 Copy code
